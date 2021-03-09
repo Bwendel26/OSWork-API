@@ -1,0 +1,10 @@
+package com.bruno.osworks.api.controller;
+
+public class ClienteController {
+	
+	@GetMapping
+	public String listar() {
+		return "Teste";
+	
+	}
+}

@@ -1,0 +1,8 @@
+package com.bruno.osworks.api.controller;
+
+public class ClienteController {
+	
+	public String lista() {
+		
+	}
+}
